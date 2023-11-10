@@ -1,0 +1,65 @@
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.sidebar {
+  background-color: #0d28a6;
+  height: 100vh;
+  text-align: center;
+  font-size: 18px;
+}
+
+.sidebar-menu {
+  padding: 18px 6px 0px;
+}
+
+.navbar-custom {
+  box-shadow: 0px 2px 8px 0px #0000000D !important;
+  padding: 4px 15px;
+  background-color: #fff;
+  border-bottom: 1px;
+}
+
+.content {
+  width: 100%;
+}
+
+.list-menu {
+    width: 20%;
+    background-color: #fff;
+    margin-top: 1px
+    height: 80vh;
+}
+
+.list-menu p{
+    padding: 18px 24px 18px;
+}
+
+.list-menu-item {
+    background-color: #CFD4ED;
+}
+
+.list-car {
+  background-color: #f4f5f7;
+}
+
+.btn-delete {
+    border: 1px solid #FA2C5A;
+    width: 50%;
+    margin-right: 10px;
+    color: #FA2C5A; 
+}
+
+.btn-edit {
+    background-color: #5CB85F;
+    width: 50%;
+    color: #fff;
+}
+
+.btn-add {
+    background-color: #0D28A6;
+    padding: 8px;
+}
+
+

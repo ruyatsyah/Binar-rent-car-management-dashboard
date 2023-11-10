@@ -1,0 +1,12 @@
+<%- include("./partials/header.ejs") %>
+<div class="d-flex">
+  <div class="sidebar"><%- include("./partials/sidebar.ejs") %></div>
+  <div class="content">
+    <div><%- include("./partials/navbar.ejs") %></div>
+    <div class="d-flex" style="background-color: #f4f5f7">
+      <%- include("./partials/listmenu.ejs") %> <%-
+      include("./admin/listcar/listcar.ejs") %>
+    </div>
+  </div>
+</div>
+<%- include("./partials/js.ejs") %>
